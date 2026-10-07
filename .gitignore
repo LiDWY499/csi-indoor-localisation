@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+runs/
+data/
+CSI-dataset/
+figshare_intel5300/
+*.pt
+*.npz
+*.mat
+.DS_Store
